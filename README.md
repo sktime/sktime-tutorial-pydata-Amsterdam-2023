@@ -33,7 +33,7 @@ You have different options how to run the tutorial notebooks:
 * Run the notebooks on your machine. [Clone] this repository, get [conda], install the required packages (`sktime`, `seaborn`, `jupyter`) in an environment, and open the notebooks with that environment. For detail instructions, see below. For troubleshooting, see sktime's more detailed [installation instructions].
 * or, use python venv, and/or an editable install of this repo as a package. Instructions below.
 
-[Binder]: https://mybinder.org/v2/gh/sktime/sktime-tutorial-europython-2023/main?filepath=notebooks
+[Binder]: https://mybinder.org/v2/gh/sktime/sktime-tutorial-pydata-Amsterdam-2023/main?filepath=notebooks
 [clone]: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 [conda]: https://docs.conda.io/en/latest/
 [installation instructions]: https://www.sktime.net/en/latest/installation.html
