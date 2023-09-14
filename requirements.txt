@@ -1,2 +1,3 @@
-skpro[all_extras]==2.0.0
-sktime[all_extras]==0.23.0
+skpro==2.0.0
+sktime[all_extras]==0.22.0
+pytest
